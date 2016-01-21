@@ -1,0 +1,11 @@
+﻿Build started 1/14/2016 3:09:36 AM.
+     1>Project "C:\Users\Harman\Desktop\C++\Codes\PONG\PONG\PONG.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Harman\Desktop\C++\OPENGL\glew-1.11.0\include" /IC:\Users\Harman\Desktop\C++\OPENGL\freeglut\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MAIN.cpp
+         MAIN.cpp
+     1>c:\users\harman\desktop\c++\codes\pong\pong\main.cpp(7): fatal error C1083: Cannot open include file: 'GL/glfw.h': No such file or directory
+     1>Done Building Project "C:\Users\Harman\Desktop\C++\Codes\PONG\PONG\PONG.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.97
