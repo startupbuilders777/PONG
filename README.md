@@ -10,4 +10,4 @@ Implemented Artificial Intelligence which predicts ball positions
 
 # Start
 
-To start the game, open in visual studios and run the project. 
+To start the game, open in Visual Studios and run the project. 
